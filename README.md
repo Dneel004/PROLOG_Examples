@@ -1,1 +1,1 @@
-PROLOG program examples made in logic for cs at FIU
+PROLOG program examples made in -Logic for CS class @FIU-
